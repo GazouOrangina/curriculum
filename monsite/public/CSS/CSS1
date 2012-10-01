@@ -1,4 +1,63 @@
 <css>
-#liengoogle {
-  background-color:#ff0000;
-  }
+title{
+	color:#ffffff;
+}
+#nomprenom{
+	color:#a60000;
+	font-family:"lucida console";
+	font-size:xx-large;
+	text:bold;
+	align:center;
+	margin-left:100px;
+}
+h1{
+	color:#a60000;
+	font-family:"lucida console";
+	font-size:x-large;
+	text:bold;
+	margin-left:100px;
+}
+p{
+	font:georgia;
+	font-color:#303030;
+}
+a:link{
+	color:#000000;
+	text-decoration:none;
+}
+a:active{
+	color:#222222;
+}
+a:hover{
+	color:#222222;
+}
+a:visited{
+	color:#222222;
+}
+body{
+	font-family:georgia;
+	font-size:medium;
+	color:#262626;
+	margin-left:500px;
+	margin-right:200px;
+	margin-top:50px;
+	margin-bottom:50px;
+	background-image:url(http://img15.hostingpics.net/pics/648611spaceinvaders.jpg);
+	background-repeat:no-repeat;
+    background-attachment:fixed;
+	padding:5px;
+	white-space:5px;
+}
+#identite{
+	margin-right:50px;
+	margin-top:50px;
+	align:right;
+}
+#haut{
+	align:center;
+	background-color:#a5a5a5;
+	padding:20px;
+}
+
+</css>
+
