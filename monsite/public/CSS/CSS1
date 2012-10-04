@@ -9,6 +9,7 @@ title{
 	text:bold;
 	align:center;
 	margin-left:100px;
+	padding-top:20px;
 }
 h1{
 	color:#a60000;
@@ -38,25 +39,33 @@ body{
 	font-family:georgia;
 	font-size:medium;
 	color:#262626;
-	margin-left:500px;
-	margin-right:200px;
+	margin-left:550px;
+	margin-right:120px;
 	margin-top:50px;
 	margin-bottom:50px;
 	background-image:url(http://img15.hostingpics.net/pics/648611spaceinvaders.jpg);
 	background-repeat:no-repeat;
     background-attachment:fixed;
-	padding:5px;
+	padding:10px;
 	white-space:5px;
 }
 #identite{
 	margin-right:50px;
-	margin-top:50px;
+	margin-top:80px;
 	align:right;
+    border-radius: 20px;
 }
 #haut{
 	align:center;
 	background-color:#a5a5a5;
-	padding:20px;
+	padding-left:50px;
+	padding-bottom:50px;
+	padding-right:20px;
+	paddin-top:150px;
+    border-radius: 20px;
+}
+#competences{
+	text-align:justify;
 }
 
 </css>
