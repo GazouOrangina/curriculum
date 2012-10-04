@@ -2,6 +2,15 @@
 title{
 	color:#ffffff;
 }
+#lien{
+	font-size:large;
+	background-color:#a60000;
+	font-color:#ffffff;
+	width:320px;
+	height:20px;
+    border-radius: 20px;
+    padding-left:18px;
+}
 #nomprenom{
 	color:#a60000;
 	font-family:"lucida console";
