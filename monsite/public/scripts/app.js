@@ -11,3 +11,53 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function(){
+    $("#contactmenu").click(function(){
+        $("#experiences").fadeOut("slow");
+        $("#competences").fadeOut("slow");
+        $("#divers").fadeOut("slow");
+        $("#formation").fadeOut("slow");
+        $("#contact").fadeIn("slow");
+    });
+});
+
+$(document).ready(function(){
+    $("#experiencesmenu").click(function(){
+        $("#experiences").fadeIn("slow");
+        $("#contact").fadeOut("slow");
+        $("#competences").fadeOut("slow");
+        $("#divers").fadeOut("slow");
+        $("#formation").fadeOut("slow");
+    });
+});
+
+$(document).ready(function(){
+    $("#competencesmenu").click(function(){
+        $("#competences").fadeIn("slow");
+        $("#contact").fadeOut("slow");
+        $("#experiences").fadeOut("slow");
+        $("#divers").fadeOut("slow");
+        $("#formation").fadeOut("slow");
+    });
+});
+
+$(document).ready(function(){
+    $("#diversmenu").click(function(){
+        $("#divers").fadeIn("slow");
+        $("#contact").fadeOut("slow");
+        $("#experiences").fadeOut("slow");
+        $("#competences").fadeOut("slow");
+        $("#formation").fadeOut("slow");
+    });
+});
+
+
+$(document).ready(function(){
+    $("#formationmenu").click(function(){
+        $("#formation").fadeIn("slow");
+        $("#contact").fadeOut("slow");
+        $("#experiences").fadeOut("slow");
+        $("#competences").fadeOut("slow");
+        $("#divers").fadeOut("slow");
+    });
+});

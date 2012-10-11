@@ -93,6 +93,10 @@ body{
 	color:#7c0000;
 }
 
+.cat{
+	margin-top:50px;
+}
+
 ul{
     height:50px;
     font-family:Arial, Helvetica, sans-serif;
@@ -128,7 +132,7 @@ ul li a:visited{
 
 .hoverMenu,.hoverMenu:visited{
     margin-top:-25px;
-    background:url(img/grey_bg.gif) repeat-x #7c0000;
+    background-color:#7c0000;
     color:#ffffff;
 }
 
