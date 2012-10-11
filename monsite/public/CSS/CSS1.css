@@ -1,0 +1,139 @@
+title{
+	color:#ffffff;
+}
+#lien{
+	font-size:large;
+	background-color:#ffffff;
+    text-shadow:#a9a9a9 1px 1px;
+	width:320px;
+	height:20px;
+    border-radius: 20px;
+    padding-left:15px;
+}
+#nomprenom{
+	color:#a60000;
+	font-family:"lucida console";
+	font-size:xx-large;
+	text:bold;
+	align:center;
+	margin-left:100px;
+	padding-top:20px;
+}
+h1{
+	color:#a60000;
+	font-family:"lucida console";
+	font-size:x-large;
+	text:bold;
+	margin-left:100px;
+}
+p{
+	font:georgia;
+	font-color:#303030;
+}
+a:link{
+	color:#000000;
+	text-decoration:none;
+}
+a:active{
+	color:#7c0000;
+}
+a:hover{
+	color:#7c0000;
+}
+a:visited{
+	color:#7c0000;
+}
+body{
+	font-family:georgia;
+	font-size:medium;
+	color:#262626;
+	margin-left:550px;
+	margin-right:120px;
+	margin-top:20px;
+	margin-bottom:50px;
+	background-image:url(http://img15.hostingpics.net/pics/648611spaceinvaders.jpg);
+	background-repeat:no-repeat;
+    background-attachment:fixed;
+	padding:10px;
+	white-space:5px;
+}
+#identite{
+	margin-right:50px;
+	margin-top:80px;
+	align:right;
+    border-radius:20px;
+}
+#haut{
+	text-align:center;
+	background-color:#a5a5a5;
+	padding-left:50px;
+	padding-bottom:20px;
+	padding-top:20px;
+	padding-right:20px;
+    border-radius: 20px;
+    margin-top:30px;
+}
+#competences{
+	text-align:justify;
+}
+#divers{
+    margin-top:10px;
+	line-height:3px;
+}
+#contact{
+	line-height:3px;
+}
+#description{
+    padding-top:20px;
+    padding-right:50px;
+    padding-bottom:20px;
+	text-align:right;
+	font-family:georgia;
+	font-size:medium;
+	color:#7c0000;
+}
+
+ul{
+    height:50px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+}
+
+ul li{
+	font-family:georgia;
+	text-align:center;
+    border:1px solid #7c0000;
+    display:inline-block;
+    float:left;
+    height:30px;
+    width:110px;
+    list-style-type:none;
+    overflow:hidden;
+}
+
+ 
+ul li a, ul li a:hover,
+ul li a:visited{
+    text-decoration:none;
+    color:#ffffff;
+}
+
+.normalMenu, .normalMenu:visited,
+.hoverMenu, .hoverMenu:visited{
+	color:#ffffff;
+    outline:none;
+    padding:5px 10px;
+    display:block;
+}
+
+.hoverMenu,.hoverMenu:visited{
+    margin-top:-25px;
+    background:url(img/grey_bg.gif) repeat-x #7c0000;
+    color:#ffffff;
+}
+
+.normalMenu, .normalMenu:visited{
+    color:#ffffff;
+    background-color:#7c0000;
+}
+
