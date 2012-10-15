@@ -93,6 +93,13 @@ body{
 	color:#7c0000;
 }
 
+#consigne{
+	font-size:x-small;
+	text-align:center;
+	margin-top:-25px;
+	margin-bottom:-20px;
+}
+
 .cat{
 	margin-top:50px;
 }

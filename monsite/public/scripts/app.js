@@ -61,3 +61,13 @@ $(document).ready(function(){
         $("#divers").fadeOut("slow");
     });
 });
+
+$(document).ready(function(){
+    $("#identite").click(function(){
+        $("#formation").fadeIn("slow");
+        $("#contact").fadeIn("slow");
+        $("#experiences").fadeIn("slow");
+        $("#competences").fadeIn("slow");
+        $("#divers").fadeIn("slow");
+    });
+});
